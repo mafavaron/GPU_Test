@@ -1,3 +1,10 @@
+! From G. Ruetsch, M. Fatica, "CUDA Fortran for Scientists and Engineers", Morgan Kaufmann, 2013
+! with really really small adaptations from me.
+!
+! To compile:  pgfortran -Mcuda test.f90
+!
+! By: Patrizia M. Favaron
+!
 module simpleOps_m
 contains
 
